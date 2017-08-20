@@ -1,0 +1,43 @@
+{
+  "intents": [
+    {
+      "name": "AMAZON.CancelIntent",
+      "samples": []
+    },
+    {
+      "name": "AMAZON.HelpIntent",
+      "samples": []
+    },
+    {
+      "name": "AMAZON.StopIntent",
+      "samples": []
+    },
+    {
+      "name": "GetNewQuoteIntent",
+      "samples": [
+        "Tell me a quote",
+        "Tell me a design quote",
+        "Tell me a quote on design",
+        "Give me a quote on design",
+        "Give me a quote",
+        "Give me a design quote",
+        "Enlighten me with quote on design",
+        "Tell me something about design",
+        "Enlighten me with a design quote",
+        "Can you tell me a quote on design",
+        "Can you tell me a design quote"
+      ],
+      "slots": []
+    },
+    {
+      "name": "GetQuoteOfTheDayIntent",
+      "samples": [
+        "What's the quote of the day",
+        "Tell me the quote of the day",
+        "Give me the quote of the day",
+        "What is the quote of the day"
+      ],
+      "slots": []
+    }
+  ]
+}
