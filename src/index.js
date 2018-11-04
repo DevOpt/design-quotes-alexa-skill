@@ -110,9 +110,9 @@ var person = [
 
 //verbs
 var verb = [
-    "said, ",
-    "said once – ",
-    "once said – "
+    " said, ",
+    " said once – ",
+    " once said – "
 
 ];
 
